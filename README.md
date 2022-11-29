@@ -56,13 +56,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 First Project <a name="about-project"></a>
-
-> This is a Hello World project.
+# 📖 First Project <a name="about-project"> This is a Hello World project.</a>
 
 **Hello World** is my first project at microverse
 
-## 🛠 Built With <a name="built-with"></a>
+# 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
