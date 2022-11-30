@@ -1,120 +1,195 @@
-# Hello Project
-First microverse Project.
+<a name="readme-top"></a>
 
-## Built With
-HTML
-CSS
-Web Development
+<!--
+HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
 
-## Getting Started
-To get a local copy up and running, follow the steps in Setup below.
+Modify this file to match your project and remove sections that don't apply.
 
-## Prerequisites
-Basic knowledge of HTML, CSS, and JavaScript.
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements
+- License
 
-## Setup
-If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
+After you're finished please remove all the comments and instructions!
+-->
 
-Download the ZIP from this location, or run the following git command to clone the files to your machine:
+<!-- TABLE OF CONTENTS -->
 
+# 📗 Table of Contents
 
-```bash
-git clone https://github.comJaved-Shahbaz/First-Project.git
-- Once the files are on your machine, open the _First-Project_ folder in [Visual Studio Code](https://code.visualstudio.com/)
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 Hello-Wolrd ](#-hello-wolrd-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [Run tests](#run-tests)
+    - [Deployment](#deployment)
+  - [👥 Authors ](#-authors-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [📝 License ](#-license-)
 
-- With the files open in Visual Studio Code, press the **Go Live** button at the bottom of the window to launch the files with [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
+<!-- PROJECT DESCRIPTION -->
 
+# 📖 Hello World <a name="about-project"></a>
 
+> This is my the first project from Microverse to test our knowlegde from what we have learn so far.
 
-To get a local copy up and running follow these simple example steps.
+**Hello World** is simply a HTML & CSS based project that display Hello Microverse! on the screen. This also include many configuration
+settings to keep my code clean.
 
-## Authors
+## 🛠 Built With <a name="built-with"></a>
 
-👤 **Javed Shahbaz**
-- GitHub: [@Javed-Shahbaz](https://github.com/Javed-Shahbaz)
+### Tech Stack <a name="tech-stack"></a>
 
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](../../issues/).
+> This projet used for only
 
-## Show your support
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://developer.mozilla.org/es/docs/Web/HTML">HTML</a></li>
+  </ul>
+  <ul>
+    <li><a href="https://developer.mozilla.org/es/docs/Web/CSS">CSS</a></li>
+  </ul>
+</details>
+<!-- Features -->
 
-Give a ⭐️ if you like this project!
+### Key Features <a name="key-features"></a>
 
-## Acknowledgments
+-   **Display Hello Miroverse!**
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 📝 License
+<!-- GETTING STARTED -->
 
-This project is [MIT](./LICENSE) licensed.
+## 💻 Getting Started <a name="getting-started"></a>
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using te
-=======
-![](https://img.shields.io/badge/Microverse-blueviolet)
+> Describe how a new developer could make use of your project.
 
-# Hello Project
-
-> First microverse Project.
-
-
-## Built With
-
-- HTML
-- CSS
-- Web Development
-
-
-
-
-## Getting Started
-To get a local copy up and running, follow the steps in Setup below.
+To get a local copy up and running, follow these steps.
 
 ### Prerequisites
-Basic knowledge of HTML, CSS, and JavaScript.
+
+In order to run this project you need:
+
+<!-- Example command: ```sh 
+ gem install rails
+```
+ -->
 
 ### Setup
-If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
 
-[Download the ZIP from this location](https://github.com/danielsafari143/portfolio/archive/refs/heads/master.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
+Clone this repository to your desired folder:
+
+<!--
+Example commands:
+
+```sh
+  cd Hello-folder
+  git clone git@github.com:myaccount/my-project.git
 ```
+--->
 
-```bash
-git clone https://github.comJaved-Shahbaz/First-Project.git
+### Install
+
+Install this project with:
+
+<!--
+Example command:
+
+```sh
+  cd Hello-project
+  gem install
 ```
+--->
+
+### Usage
+
+To run the project, execute the following command:
+
+<!--
+Example command:
+
+```sh
+  rails server
+```
+--->
+
+### Run tests
+
+To run tests, run the following command:
+
+<!--
+Example command:
+
+```sh
+  bin/rails test test/models/article_test.rb
+```
+--->
+
+### Deployment
+
+You can deploy this project using:
+
+<!--
+Example:
+
+```sh
 
 ```
-- Once the files are on your machine, open the _First-Project_ folder in [Visual Studio Code](https://code.visualstudio.com/)
+ -->
 
-- With the files open in Visual Studio Code, press the **Go Live** button at the bottom of the window to launch the files with [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- AUTHORS -->
 
-
-To get a local copy up and running follow these simple example steps.
-
-## Authors
+## 👥 Authors <a name="authors"></a>
 
 👤 **Javed Shahbaz**
-- GitHub: [@Javed-Shahbaz](https://github.com/Javed-Shahbaz)
 
-## 🤝 Contributing
+-   GitHub: [https://github.com/Javed-Shahbaz)
+-   Twitter: [https://twitter.com/javedshahbaz007)
+-   LinkedIn: [https://www.linkedin.com/in/javed-shahbaz)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
 Contributions, issues, and feature requests are welcome!
+
 Feel free to check the [issues page](../../issues/).
 
-## Show your support
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Give a ⭐️ if you like this project!
+<!-- SUPPORT -->
 
-## Acknowledgments
+## ⭐️ Show your support <a name="support"></a>
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+If you like this project please star in here on Github
 
-## 📝 License
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
