@@ -2,6 +2,7 @@
 
 <!--
 HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
 
 Modify this file to match your project and remove sections that don't apply.
 
@@ -21,76 +22,56 @@ REQUIRED SECTIONS:
 After you're finished please remove all the comments and instructions!
 -->
 
-<div align="center">
-
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack]
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ]
-- [📝 License]
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 Hello-Wolrd ](#-hello-wolrd-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [Run tests](#run-tests)
+    - [Deployment](#deployment)
+  - [👥 Authors ](#-authors-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [📝 License ](#-license-)
+
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 First Project <a name="about-project"> This is a Hello World project.</a>
+# 📖 Hello World <a name="about-project"></a>
 
-**Hello World** 
-is my first project at microverse
+> This is my the first project from Microverse to test our knowlegde from what we have learn so far.
 
-# 🛠 Built With 
-### Tech Stack 
+**Hello World** is simply a HTML & CSS based project that display Hello Microverse! on the screen. This also include many configuration
+settings to keep my code clean.
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+> This projet used for only
+
 <details>
-  <summary>HTML</summary>
+  <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://developer.mozilla.org/es/docs/Web/HTML">HTML</a></li>
+  </ul>
+  <ul>
+    <li><a href="https://developer.mozilla.org/es/docs/Web/CSS">CSS</a></li>
   </ul>
 </details>
-
-<details>
-  <summary>CSS</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **This Project holds the standard implemnentations used in software industry**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
+-   **Display Hello Miroverse!**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,10 +87,7 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Example command:
-
-```sh
+<!-- Example command: ```sh 
  gem install rails
 ```
  -->
@@ -122,7 +100,7 @@ Clone this repository to your desired folder:
 Example commands:
 
 ```sh
-  cd my-folder
+  cd Hello-folder
   git clone git@github.com:myaccount/my-project.git
 ```
 --->
@@ -135,7 +113,7 @@ Install this project with:
 Example command:
 
 ```sh
-  cd my-project
+  cd Hello-project
   gem install
 ```
 --->
@@ -182,19 +160,11 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Javed Shahbaz**
 
-- GitHub: [@Javed-Shahbaz](https://github.com/Javed-Shahbaz
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-- [ ] **This is a simple project**
+-   GitHub: [https://github.com/Javed-Shahbaz)
+-   Twitter: [https://twitter.com/javedshahbaz007)
+-   LinkedIn: [https://www.linkedin.com/in/javed-shahbaz)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -212,35 +182,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **Which languae this project used?**
-
-  - HTML5
-
-- **How you Style this project?**
-
-  - Styling is done by using CSS.
+If you like this project please star in here on Github
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -248,5 +190,6 @@ I would like to thank...
 
 ## 📝 License <a name="license"></a>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+This project is [MIT](./LICENSE) licensed.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
