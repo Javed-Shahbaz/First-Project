@@ -1,4 +1,1 @@
-## Hello Project
-- HTML
-- CSS
-- VS CODE used
+This file should be ignored by git
